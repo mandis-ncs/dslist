@@ -6,6 +6,7 @@ import jakarta.persistence.ManyToOne;
 
 import java.util.Objects;
 
+
 // @Embeddable - saying "I am embedded two key in one"
 @Embeddable
 public class BelongingPK {

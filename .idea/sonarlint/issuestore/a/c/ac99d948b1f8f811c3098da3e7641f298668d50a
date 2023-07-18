@@ -1,0 +1,7 @@
+
+{
+java:S1488"^Immediately return this expression instead of assigning it to the temporary variable "result".(‚ÑÜ¡8Í•Ú¬–1
+{
+java:S1488""^Immediately return this expression instead of assigning it to the temporary variable "result".(–ñ†«8Î•Ú¬–1
+\
+java:S1128":Remove this unused import 'com.mandis.dslist.dto.GameDto'.(¿¨šÿÿÿÿÿ8ñ•Ú¬–1
